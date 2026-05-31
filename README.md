@@ -110,4 +110,3 @@ _No license specified._
 If you wish to use or contribute, please contact the repository owner for clarification.
 
 ---
-[![README powered by ReadmeAI](https://img.shields.io/badge/README-powered%20by%20ReadmeAI-4c9be8?style=flat-square&logo=markdown)](https://www.readmeai.in)
