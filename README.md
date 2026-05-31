@@ -42,6 +42,13 @@ SkyCast is a static web application. To install and run locally:
 5. Experience dynamic background changes reflecting weather conditions.
 6. Refresh the page to update weather data.
 
+## 🌐 Live Demo
+
+Experience SkyCast live in action:
+
+🔗 **Deployed on Vercel:**
+https://skycast-website.vercel.app
+
 ## Screenshots
 
 This section includes screenshots of the SkyCast web application, showing the Home page with current weather details, the 14-day forecast page, and the About page. These visuals demonstrate the overall UI design and functionality of the project.
